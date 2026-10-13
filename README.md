@@ -5,7 +5,7 @@
 
 ## ▶ Jouer en ligne
 
-**👉 [https://fibou1.github.io/Pilotage_Maintenance_SI/](https://fibou1.github.io/Pilotage_Maintenance_SI/)**
+**👉 [https://firas-bouricha.github.io/Pilotage_Maintenance_SI/](https://firas-bouricha.github.io/Pilotage_Maintenance_SI/)**
 
 Le jeu fonctionne sur ordinateur comme sur mobile, sans installation ni compte.
 
